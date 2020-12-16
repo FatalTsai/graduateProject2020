@@ -1,0 +1,44 @@
+iframe{
+    /* top: 700px; */
+    /* position: absolute; */
+    /* transform: scale(2); */
+    /* left: 1000px; */
+}
+.card-header{
+    position: relative;
+}
+
+/* .playContainer{
+    height: 960px;
+    width: 1280px;
+} */
+img{
+   /* transform: scale(1.5); */
+}
+
+.float-r{
+    float: right;
+
+}
+.content {
+    /* padding: 30px; */
+    color: #787878;
+    background-color: #fcf7f8;
+    border: 1px solid rgba(0,0,0,.05);
+  }
+
+
+kendo-popup{
+    width: 160px !important;
+    position: absolute ;
+    top:  10px !important;
+    left: -195px !important;
+    background-color: #00bfff !important;
+    color: blanchedalmond;
+    box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.7);
+
+}
+.zoom-control mat-slider{
+    width: 200px;
+
+}

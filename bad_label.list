@@ -1,0 +1,342 @@
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/39_Ice_Skating_iceskiing_39_380_7512.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/50_Celebration_Or_Party_houseparty_50_715_2501.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/50_Celebration_Or_Party_houseparty_50_715_2501.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/50_Celebration_Or_Party_houseparty_50_715_2501.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/46_Jockey_Jockey_46_576_9227.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_171_3114.txt - j = 11, x = 0.007812, y = 0.000000, width = 0.015625, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_171_3114.txt - j = 122, x = 0.742188, y = 0.303807, width = 0.000000, height = 0.001464
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/2_Demonstration_Political_Rally_2_335_855.txt - j = 46, x = 0.528320, y = 0.335277, width = 0.000000, height = 0.002915
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Demonstration_Or_Protest_2_543_3490.txt - j = 9, x = 0.229492, y = 0.503255, width = 0.000000, height = 0.001302
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/33_Running_Running_33_660_6266.txt - j = 0, x = 0.846680, y = 0.520570, width = 0.000000, height = 0.003165
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Demonstration_Or_Protest_2_546_3489.txt - j = 1, x = 0.202148, y = 0.409871, width = 0.000000, height = 0.004292
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_71_3098.txt - j = 1, x = 0.553711, y = 0.216495, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_283_9547.txt - j = 10, x = 0.749023, y = 0.472050, width = 0.000000, height = 0.004969
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt - j = 0, x = 0.000000, y = 0.000000, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Protesters_2_346_3219.txt - j = 92, x = 0.107422, y = 0.956380, width = 0.000000, height = 0.001302
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_317_75.txt - j = 50, x = 0.689453, y = 0.142965, width = 0.000000, height = 0.001513
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt - j = 7, x = 1.001953, y = 0.841421, width = 0.000000, height = 0.039861
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/12_Group_Large_Group_12_Group_Large_Group_12_31_1159.txt - j = 445, x = 0.517578, y = 0.270455, width = 0.000000, height = 0.001515
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/MedicalMask1800~/Medical_1861.txt - j = 2, x = 0.503896, y = 0.194444, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt - j = 0, x = 0.000000, y = 0.000000, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/109.txt - j = 54, x = 0.531000, y = 0.201009, width = 0.000000, height = 0.018732
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt - j = 0, x = 0.000000, y = 0.000000, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt - j = 0, x = 0.000000, y = 0.000000, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/35_Basketball_Basketball_35_220_6891.txt - j = 9, x = 0.312988, y = 0.488987, width = 0.000977, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/552.txt - j = 3, x = 0.093519, y = 0.202604, width = 0.000000, height = 0.054167
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Demonstration_Or_Protest_2_202_3445.txt - j = 1, x = 0.119629, y = 0.327434, width = 0.000977, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_Football_36_63_7127.txt - j = 4, x = 0.696777, y = 0.049780, width = 0.000977, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/46_Jockey_Jockey_46_717_9282.txt - j = 3, x = 0.676270, y = 0.451613, width = 0.000977, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/35_Basketball_basketballgame_ball_35_805_6484.txt - j = 146, x = 0.922852, y = 0.539519, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/549.txt - j = 2, x = 0.652778, y = 0.266784, width = 0.000000, height = 0.134276
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Demonstrators_2_559_3199.txt - j = 111, x = 0.551758, y = 0.172535, width = 0.000000, height = 0.003521
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/185.txt - j = 0, x = 0.440833, y = 0.268148, width = 0.000000, height = 0.192593
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt - j = 0, x = 0.000000, y = 0.000000, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/145.txt - j = 5, x = 0.766250, y = 0.537500, width = 0.000000, height = 0.118333
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/29_Students_Schoolkids_Students_Schoolkids_29_230_5440.txt - j = 22, x = 0.652832, y = 0.088123, width = 0.000977, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_americanfootball_ball_36_184_7073.txt - j = 4, x = 0.000977, y = 0.062225, width = 0.000000, height = 0.004392
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_americanfootball_ball_36_184_7073.txt - j = 5, x = 0.000977, y = 0.066618, width = 0.000000, height = 0.007321
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_americanfootball_ball_36_184_7073.txt - j = 6, x = 0.000977, y = 0.071010, width = 0.000000, height = 0.010249
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_americanfootball_ball_36_184_7073.txt - j = 7, x = 0.000977, y = 0.073206, width = 0.000000, height = 0.011713
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_americanfootball_ball_36_184_7073.txt - j = 8, x = 0.000977, y = 0.075403, width = 0.000000, height = 0.013177
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/201.txt - j = 0, x = 0.606897, y = 0.157863, width = 0.000000, height = 0.082833
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/96.txt - j = 0, x = 0.252500, y = 0.324370, width = 0.000000, height = 0.147899
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/538.txt - j = 0, x = 0.238000, y = 0.415896, width = 0.000000, height = 0.014787
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/7_Cheering_Cheering_7_17_12381.txt - j = 358, x = 0.000000, y = 0.011244, width = 0.000000, height = 0.007496
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/27.txt - j = 13, x = 0.214167, y = 0.000000, width = 0.016667, height = 0.024390
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_171_3114.txt - j = 11, x = 0.007812, y = 0.000000, width = 0.015625, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_171_3114.txt - j = 122, x = 0.742188, y = 0.303807, width = 0.000000, height = 0.001464
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/2_Demonstration_Political_Rally_2_335_855.txt - j = 46, x = 0.528320, y = 0.335277, width = 0.000000, height = 0.002915
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Demonstration_Or_Protest_2_543_3490.txt - j = 9, x = 0.229492, y = 0.503255, width = 0.000000, height = 0.001302
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/33_Running_Running_33_660_6266.txt - j = 0, x = 0.846680, y = 0.520570, width = 0.000000, height = 0.003165
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Demonstration_Or_Protest_2_546_3489.txt - j = 1, x = 0.202148, y = 0.409871, width = 0.000000, height = 0.004292
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_71_3098.txt - j = 1, x = 0.553711, y = 0.216495, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_283_9547.txt - j = 10, x = 0.749023, y = 0.472050, width = 0.000000, height = 0.004969
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt - j = 0, x = 0.000000, y = 0.000000, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Protesters_2_346_3219.txt - j = 92, x = 0.107422, y = 0.956380, width = 0.000000, height = 0.001302
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_317_75.txt - j = 50, x = 0.689453, y = 0.142965, width = 0.000000, height = 0.001513
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt - j = 7, x = 1.001953, y = 0.841421, width = 0.000000, height = 0.039861
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/12_Group_Large_Group_12_Group_Large_Group_12_31_1159.txt - j = 445, x = 0.517578, y = 0.270455, width = 0.000000, height = 0.001515
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/MedicalMask1800~/Medical_1861.txt - j = 2, x = 0.503896, y = 0.194444, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt - j = 0, x = 0.000000, y = 0.000000, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/109.txt - j = 54, x = 0.531000, y = 0.201009, width = 0.000000, height = 0.018732
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt - j = 0, x = 0.000000, y = 0.000000, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt - j = 0, x = 0.000000, y = 0.000000, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/35_Basketball_Basketball_35_220_6891.txt - j = 9, x = 0.312988, y = 0.488987, width = 0.000977, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/552.txt - j = 3, x = 0.093519, y = 0.202604, width = 0.000000, height = 0.054167
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Demonstration_Or_Protest_2_202_3445.txt - j = 1, x = 0.119629, y = 0.327434, width = 0.000977, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_Football_36_63_7127.txt - j = 4, x = 0.696777, y = 0.049780, width = 0.000977, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/46_Jockey_Jockey_46_717_9282.txt - j = 3, x = 0.676270, y = 0.451613, width = 0.000977, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/35_Basketball_basketballgame_ball_35_805_6484.txt - j = 146, x = 0.922852, y = 0.539519, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/549.txt - j = 2, x = 0.652778, y = 0.266784, width = 0.000000, height = 0.134276
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Demonstrators_2_559_3199.txt - j = 111, x = 0.551758, y = 0.172535, width = 0.000000, height = 0.003521
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/185.txt - j = 0, x = 0.440833, y = 0.268148, width = 0.000000, height = 0.192593
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt - j = 0, x = 0.000000, y = 0.000000, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/145.txt - j = 5, x = 0.766250, y = 0.537500, width = 0.000000, height = 0.118333
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/29_Students_Schoolkids_Students_Schoolkids_29_230_5440.txt - j = 22, x = 0.652832, y = 0.088123, width = 0.000977, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_americanfootball_ball_36_184_7073.txt - j = 4, x = 0.000977, y = 0.062225, width = 0.000000, height = 0.004392
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_americanfootball_ball_36_184_7073.txt - j = 5, x = 0.000977, y = 0.066618, width = 0.000000, height = 0.007321
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_americanfootball_ball_36_184_7073.txt - j = 6, x = 0.000977, y = 0.071010, width = 0.000000, height = 0.010249
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_americanfootball_ball_36_184_7073.txt - j = 7, x = 0.000977, y = 0.073206, width = 0.000000, height = 0.011713
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_americanfootball_ball_36_184_7073.txt - j = 8, x = 0.000977, y = 0.075403, width = 0.000000, height = 0.013177
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/201.txt - j = 0, x = 0.606897, y = 0.157863, width = 0.000000, height = 0.082833
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/96.txt - j = 0, x = 0.252500, y = 0.324370, width = 0.000000, height = 0.147899
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/538.txt - j = 0, x = 0.238000, y = 0.415896, width = 0.000000, height = 0.014787
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/7_Cheering_Cheering_7_17_12381.txt - j = 358, x = 0.000000, y = 0.011244, width = 0.000000, height = 0.007496
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/27.txt - j = 13, x = 0.214167, y = 0.000000, width = 0.016667, height = 0.024390
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_171_3114.txt - j = 11, x = 0.007812, y = 0.000000, width = 0.015625, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_171_3114.txt - j = 122, x = 0.742188, y = 0.303807, width = 0.000000, height = 0.001464
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/2_Demonstration_Political_Rally_2_335_855.txt - j = 46, x = 0.528320, y = 0.335277, width = 0.000000, height = 0.002915
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Demonstration_Or_Protest_2_543_3490.txt - j = 9, x = 0.229492, y = 0.503255, width = 0.000000, height = 0.001302
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/33_Running_Running_33_660_6266.txt - j = 0, x = 0.846680, y = 0.520570, width = 0.000000, height = 0.003165
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Demonstration_Or_Protest_2_546_3489.txt - j = 1, x = 0.202148, y = 0.409871, width = 0.000000, height = 0.004292
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_71_3098.txt - j = 1, x = 0.553711, y = 0.216495, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_283_9547.txt - j = 10, x = 0.749023, y = 0.472050, width = 0.000000, height = 0.004969
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt - j = 0, x = 0.000000, y = 0.000000, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Protesters_2_346_3219.txt - j = 92, x = 0.107422, y = 0.956380, width = 0.000000, height = 0.001302
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_317_75.txt - j = 50, x = 0.689453, y = 0.142965, width = 0.000000, height = 0.001513
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt - j = 7, x = 1.001953, y = 0.841421, width = 0.000000, height = 0.039861
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/12_Group_Large_Group_12_Group_Large_Group_12_31_1159.txt - j = 445, x = 0.517578, y = 0.270455, width = 0.000000, height = 0.001515
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/MedicalMask1800~/Medical_1861.txt - j = 2, x = 0.503896, y = 0.194444, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt - j = 0, x = 0.000000, y = 0.000000, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/109.txt - j = 54, x = 0.531000, y = 0.201009, width = 0.000000, height = 0.018732
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt - j = 0, x = 0.000000, y = 0.000000, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt - j = 0, x = 0.000000, y = 0.000000, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/35_Basketball_Basketball_35_220_6891.txt - j = 9, x = 0.312988, y = 0.488987, width = 0.000977, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/552.txt - j = 3, x = 0.093519, y = 0.202604, width = 0.000000, height = 0.054167
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Demonstration_Or_Protest_2_202_3445.txt - j = 1, x = 0.119629, y = 0.327434, width = 0.000977, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_Football_36_63_7127.txt - j = 4, x = 0.696777, y = 0.049780, width = 0.000977, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/46_Jockey_Jockey_46_717_9282.txt - j = 3, x = 0.676270, y = 0.451613, width = 0.000977, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/35_Basketball_basketballgame_ball_35_805_6484.txt - j = 146, x = 0.922852, y = 0.539519, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/549.txt - j = 2, x = 0.652778, y = 0.266784, width = 0.000000, height = 0.134276
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Demonstrators_2_559_3199.txt - j = 111, x = 0.551758, y = 0.172535, width = 0.000000, height = 0.003521
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/185.txt - j = 0, x = 0.440833, y = 0.268148, width = 0.000000, height = 0.192593
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt - j = 0, x = 0.000000, y = 0.000000, width = 0.000000, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/145.txt - j = 5, x = 0.766250, y = 0.537500, width = 0.000000, height = 0.118333
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/29_Students_Schoolkids_Students_Schoolkids_29_230_5440.txt - j = 22, x = 0.652832, y = 0.088123, width = 0.000977, height = 0.000000
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_americanfootball_ball_36_184_7073.txt - j = 4, x = 0.000977, y = 0.062225, width = 0.000000, height = 0.004392
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_americanfootball_ball_36_184_7073.txt - j = 5, x = 0.000977, y = 0.066618, width = 0.000000, height = 0.007321
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_americanfootball_ball_36_184_7073.txt - j = 6, x = 0.000977, y = 0.071010, width = 0.000000, height = 0.010249
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_americanfootball_ball_36_184_7073.txt - j = 7, x = 0.000977, y = 0.073206, width = 0.000000, height = 0.011713
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/36_Football_americanfootball_ball_36_184_7073.txt - j = 8, x = 0.000977, y = 0.075403, width = 0.000000, height = 0.013177
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/201.txt - j = 0, x = 0.606897, y = 0.157863, width = 0.000000, height = 0.082833
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/96.txt - j = 0, x = 0.252500, y = 0.324370, width = 0.000000, height = 0.147899
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/538.txt - j = 0, x = 0.238000, y = 0.415896, width = 0.000000, height = 0.014787
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/7_Cheering_Cheering_7_17_12381.txt - j = 358, x = 0.000000, y = 0.011244, width = 0.000000, height = 0.007496
+Wrong label: /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/shreyashwaghe2_kaggle/Medical_Masks_Dataset/images/27.txt - j = 13, x = 0.214167, y = 0.000000, width = 0.016667, height = 0.024390
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/2_Demonstration_Political_Rally_2_444_3808.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_train/0_Parade_Parade_0_452_279.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/0_Parade_Parade_0_275_29.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/37_Soccer_soccer_ball_37_281_1828.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/7_Cheering_Cheering_7_426_3086.txt Wrong annotation: x = 0 or y = 0
+/media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/data/wider_val/39_Ice_Skating_iceskiing_39_583_1885.txt Wrong annotation: x = 0 or y = 0

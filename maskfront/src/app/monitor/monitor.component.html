@@ -1,0 +1,107 @@
+<div class="panel-header panel-header-sm">
+  <!-- <div class="header text-center">
+    <h2 class="title">Monitor</h2>
+    <p class="category">Please checkout the
+      <a href="https://scttcper.github.io/ngx-toastr/" target="_blank">full documentation.</a>
+    </p>
+  </div> -->
+</div>
+<div class="main-content">
+  <div class="row">
+ 
+    <div class="col-md-12">
+      <div class="card">
+        <div class="card-body px-0 py-0" >
+          <div class="places-buttons">
+            <div class="row">
+              <div class="col-md-10 ml-auto mr-auto text-center">
+                <!-- <h4 class="card-title">
+                  Notifications Places
+                  <p class="category">Click to view notifications</p>
+                </h4> -->
+                <div class="col-md-12 pl-0">
+                  <div id="playContainer" class="playContainer " style="overflow: hidden;">
+
+                  <img id="webcam" src="http://localhost:8787/" height="960" width="1280">
+                  <!-- <img id="webcam" src="./assets/130714941_2752026378345587_2061215954478779509_n.png" height="960" width="1280"> -->
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-1 ml-auto mr-auto">
+                    <div class="row" style="position: relative;">
+                      
+                      <div class="example-config" >
+                        <button class="btn btn-info  "  #anchor (click)="onToggle()" >
+                      <img src="./assets/icon/equalizer.svg" alt="" width="32" height="32" title="Bootstrap">
+                      
+                      equalizer</button>
+                        <!-- <button #anchor (click)="onToggle()" class="k-button">{{ toggleText }} Popup</button> -->
+                      </div>
+                      <kendo-popup [anchor]="anchor" (anchorViewportLeave)="show = false" *ngIf="show">
+                        <div class='content row'>
+                          <!-- User-defined content -->
+                          <div class="col-md-12 ml-auto mr-auto text-center">
+                              <span>brightness</span>
+                              <mat-slider #brightnessbar (change)="filterupdate()" step="0.01" min="0" max="2" [(ngModel)]="brightnessbarvalue" ></mat-slider>
+                          </div>
+                          <div class="col-md-12 ml-auto mr-auto text-center">
+                            <span>contrast</span>
+                            <mat-slider #contrastbar   (change)="filterupdate()" step="0.01" min="0" max="2" [(ngModel)]="contrastbarvalue"></mat-slider>
+                          </div>
+                          <div class="col-md-12 ml-auto mr-auto text-center">
+                            <span>saturation</span>
+                            <mat-slider #saturationbar (change)="filterupdate()" step="0.01" min="0" max="2" [(ngModel)]="saturationbarvalue"></mat-slider>
+                          </div>
+                        </div>
+                      </kendo-popup>
+                  </div>
+                  <div class="row">
+                    <button class="btn btn-info  float-r" (click)="openFullscreen()">
+                      <img src="./assets/icon/fullscreen.svg" alt="" width="32" height="32" title="Bootstrap">
+
+
+                      fullscreen</button>
+                  </div>
+                  <div class="row">
+                    <button class="btn btn-info  float-r" (click)="requestSnapshot()">
+                      <img src="./assets/icon/snapshot.svg" alt="" width="32" height="32" title="Bootstrap">
+
+
+                      snapshot</button>
+                  </div>
+                  <div class="row  ml-3">
+                    <!-- <button class="btn btn-primary btn-block" (click)="showNotification('top','center')">Top Center</button> -->
+                    <div class="zoom-control ml-auto mr-auto text-center row">
+                      <img src="./assets/icon/zoom-in.svg" alt="" width="32" height="32" title="Bootstrap" (click)="zoomout(false)">
+                      <mat-slider #zoombar step="0.2" min="0.7" max="3" (change)="zoomupdate()" [(ngModel)]="zoombarvalue" vertical="true"></mat-slider>
+                      <img src="./assets/icon/zoom-out.svg" alt="" width="32" height="32" title="Bootstrap" (click)="zoomout(true)">
+                  </div>
+                  <div class="row">
+                    <button class="btn btn-primary btn-block" (click)="showNotification('bottom','left')">
+                      <!-- <img src="./assets/icon/fullscreen.svg" alt="" width="32" height="32" title="Bootstrap"> -->
+
+
+                      </button>
+                  </div>
+                  
+
+
+                </div>
+
+                  
+              </div>
+            </div>
+            <div class="row">
+             
+            </div>
+            
+    
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+

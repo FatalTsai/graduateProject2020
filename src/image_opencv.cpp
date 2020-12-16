@@ -12,6 +12,7 @@
 #include <fstream>
 #include <algorithm>
 #include <atomic>
+#include <ctime>
 
 #include <opencv2/core/version.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
@@ -76,6 +77,44 @@ using std::endl;
 #ifndef CV_AA
 #define CV_AA cv::LINE_AA
 #endif
+#include "../easywsclient.hpp"
+#include "../easywsclient.cpp" // <-- include only if you don't want compile separately
+#include <queue>
+using easywsclient::WebSocket;
+static WebSocket::pointer ws = NULL;
+void handle_message(const std::string & message)
+{
+    printf(">>> %s\n", message.c_str());
+    if (message == "world") { ws->close(); }
+}
+
+bool isWsStart = false;
+std::queue<bool> q;   // 一個空的 queue
+
+void printQueue(std::queue<bool> q)
+{
+	//printing content of queue 
+	while (!q.empty()){
+		std::cout<<" "<<q.front();
+		q.pop();
+	}
+	std::cout<<endl;
+}
+
+int  CntQueue(std::queue<bool> q)
+{
+    int ans = 0;
+	//printing content of queue 
+	while (!q.empty()){
+		// std::cout<<" "<<q.front();
+        if(q.front() == 1){
+            ans++;
+        }
+		q.pop();
+	}
+	// std::cout<<endl;
+    return ans;
+}
 
 extern "C" {
 
@@ -870,28 +909,86 @@ extern "C" void save_cv_jpg(mat_cv *img_src, const char *name)
     save_mat_jpg(*img, name);
 }
 // ----------------------------------------
+void fuckTest(char* filenameBitch){
+    ws = WebSocket::from_url("ws://localhost:8126/foo");
+    assert(ws);
+    ws->send("goodbye");
+    ws->send("hello");
+    ws->send(filenameBitch);
+    while (ws->getReadyState() != WebSocket::CLOSED) {
+      ws->poll();
+      ws->dispatch(handle_message);
+    }
+    delete ws;
 
 
+}
+
+std::time_t t_prev = std::time(0);   // get time now
+std::time_t tBeep_prev = std::time(0);
+bool getinfo =false;
 // ====================================================================
 // Draw Detection
 // ====================================================================
 extern "C" void draw_detections_cv_v3(mat_cv* mat, detection *dets, int num, float thresh, char **names, image **alphabet, int classes, int ext_output)
 {
+    std::cout<<"num = "<<num<<endl;
+    char record[1386]="";
+    // for(int i=0;i<num;++i){
+    //         std::cout<<"dets["<< i <<"].classes = "<<static_cast<char> ( (dets[i].classes)<<endl;
+
+    // }
+    // std::cout<<"In draw_detections_cv_v3 classes = "<<classes<<endl;
     try {
         cv::Mat *show_img = (cv::Mat*)mat;
         int i, j;
         if (!show_img) return;
         static int frame_id = 0;
-        frame_id++;
+      
+        assert(ws);
+        // if(!isWsStart){
+
+        //     ws = WebSocket::from_url("ws://localhost:8126/foo");
+        //     assert(ws);
+        //     ws->send("init ws");
+
+        //     while (ws->getReadyState() != WebSocket::CLOSED) {
+        //     ws->poll();
+        //     ws->dispatch(handle_message);
+        //     }
+        //     isWsStart = true;
+
+        // }
+        int bitchcnt = 0;
 
         for (i = 0; i < num; ++i) {
             char labelstr[4096] = { 0 };
             int class_id = -1;
-            for (j = 0; j < classes; ++j) {
+            // for (j = 0; j < classes; ++j) {
+            for (j = 1; j < classes; ++j) {
                 int show = strncmp(names[j], "dont_show", 9);
                 if (dets[i].prob[j] > thresh && show) {
                     if (class_id < 0) {
-                        strcat(labelstr, names[j]);
+                        // strcat(, names[j]);
+                        strcat(labelstr, "BITCH");
+                        bitchcnt +=1;
+                        if( CntQueue(q)>5 && static_cast<long int> (std::time(0))  - static_cast<long int>(t_prev) >= 4){
+                            std::cout<<"can save file at "<<std::time(0)<<endl;
+                            t_prev = std::time(0);
+                            char filenameBitch[1386] = "maskfront/src/assets/bitch/bitch";
+                            char timestr[87];
+                            sprintf(timestr, "%ld", static_cast<long int>(t_prev) );
+                            std::cout<<"timestr = "<<timestr<<endl;
+                            strcat(filenameBitch, (timestr));
+                            strcat(filenameBitch,".png");
+                            std::cout<<"filenameBitch = "<<filenameBitch<<endl;
+                            save_mat_png(*show_img,filenameBitch);
+
+                            // fuckTest("There is a bitch");
+                            fuckTest(filenameBitch);
+                            getinfo =true;
+
+                        }
                         class_id = j;
                         char buff[20];
                         if (dets[i].track_id) {
@@ -908,11 +1005,18 @@ extern "C" void draw_detections_cv_v3(mat_cv* mat, detection *dets, int num, flo
                         strcat(labelstr, names[j]);
                         printf(", %s: %.0f%% ", names[j], dets[i].prob[j] * 100);
                     }
+
+
+
+
+
+
                 }
             }
             if (class_id >= 0) {
-                int width = std::max(1.0f, show_img->rows * .002f);
-
+                strcat(record,labelstr);
+                int width = std::max(1.0f, show_img->rows * .02f);
+                // std::cout<<"now class_id = "<<class_id<<endl;
                 //if(0){
                 //width = pow(prob, 1./2.)*10+1;
                 //alphabet = 0;
@@ -972,9 +1076,12 @@ extern "C" void draw_detections_cv_v3(mat_cv* mat, detection *dets, int num, flo
                 if ((right - left) < text_size.width) pt_text_bg2.x = left + text_size.width;
                 pt_text_bg2.y = top;
                 cv::Scalar color;
-                color.val[0] = red * 256;
-                color.val[1] = green * 256;
-                color.val[2] = blue * 256;
+                // color.val[0] = red * 256;
+                // color.val[1] = green * 256;
+                // color.val[2] = blue * 256;
+                color.val[0] = 0* 256;
+                color.val[1] = 1 * 256;
+                color.val[2] = 1 * 256;
 
                 // you should create directory: result_img
                 //static int copied_frame_id = -1;
@@ -1000,15 +1107,57 @@ extern "C" void draw_detections_cv_v3(mat_cv* mat, detection *dets, int num, flo
                 else
                     printf("\n");
 
-                cv::rectangle(*show_img, pt_text_bg1, pt_text_bg2, color, width, 8, 0);
-                cv::rectangle(*show_img, pt_text_bg1, pt_text_bg2, color, CV_FILLED, 8, 0);    // filled
+                // cv::rectangle(*show_img, pt_text_bg1, pt_text_bg2, color, width, 8, 0);
+                // cv::rectangle(*show_img, pt_text_bg1, pt_text_bg2, color, CV_FILLED, 8, 0);    // filled
                 cv::Scalar black_color = CV_RGB(0, 0, 0);
-                cv::putText(*show_img, labelstr, pt_text, cv::FONT_HERSHEY_COMPLEX_SMALL, font_size, black_color, 2 * font_size, CV_AA);
+                // cv::putText(*show_img, labelstr, pt_text, cv::FONT_HERSHEY_COMPLEX_SMALL, font_size, black_color, 2 * font_size, CV_AA);
                 // cv::FONT_HERSHEY_COMPLEX_SMALL, cv::FONT_HERSHEY_SIMPLEX
             }
         }
+        // std::cout<<"record = "<<record<<endl;
+        if(getinfo){
+            char *send_buf = detection_to_json(dets, num, classes, names, frame_id, NULL);
+            std::cout<<"send_buf = "<<send_buf<<endl;
+            getinfo = false;
+            fuckTest(send_buf);
+
+        }
         if (ext_output) {
             fflush(stdout);
+        }
+        // std::cout<<"bitchcnt = "<<bitchcnt<<endl;
+        if(bitchcnt >0){
+            q.push(true);
+        }
+        else
+        {
+            q.push(false);
+        }
+        if(q.size()>10)
+        {
+            q.pop();
+        }
+        printQueue(q);
+        // std::cout<<"cnt queue "<<CntQueue(q)<<endl;
+        if(false && CntQueue(q)>5 && static_cast<long int> (std::time(0))  - static_cast<long int>(tBeep_prev) >= 10){
+            tBeep_prev = std::time(0);
+            // std::cout<<"there is bitch"<<endl;
+            // ws = WebSocket::from_url("ws://localhost:8126/foo");
+            fuckTest("there is a bitch");
+
+
+            std::cout<<"can save file at "<<std::time(0)<<endl;
+            char filenameBitch[1386] = "bitch/bitch";
+            char timestr[87];
+            sprintf(timestr, "%ld", static_cast<long int>(t_prev) );
+            std::cout<<"timestr = "<<timestr<<endl;
+            strcat(filenameBitch, (timestr));
+            strcat(filenameBitch,".png");
+            std::cout<<"filenameBitch = "<<filenameBitch<<endl;
+            save_mat_png(*show_img,filenameBitch);
+
+
+            fuckTest(filenameBitch);
         }
     }
     catch (...) {
