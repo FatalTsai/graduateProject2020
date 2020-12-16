@@ -1,0 +1,5 @@
+classes=2
+train = /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/trainList.txt
+valid = /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/valList.txt
+names = /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/cfg/mask.names
+backup = /media/6ef199b6-f7fb-4df2-b134-f47a4bbbd78a/darknet/mask/weights
