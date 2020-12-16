@@ -28,9 +28,7 @@ export class MonitorComponent implements OnInit {
         .subscribe(
         (message) => {
           console.log(message)
-          if(message['content'] == "there is a bitch")
-            this.showNotification('bottom','left')
-          else if(message['content']== "shotdownload"){
+          if(message['content']== "shotdownload"){
             this.snapshot(message['src'])
           }
 
@@ -68,61 +66,7 @@ this.filter ="brightness("+this.brightnessbarvalue+")" +
     this.elem.style.filter=this.filter //+ ";  transform : " + this.elem.nativeElement.style["transform"] 
 
 }
-  private showNotification(from, align){
 
-    var color = Math.floor((Math.random() * 5) + 1);
-    color = 4 
-
-    switch(color){
-      case 1:
-      this.toastr.info('<span class="now-ui-icons ui-1_bell-53" style="z-index:2147483647"></span> Welcome to <b>Now Ui Dashboard</b> - a beautiful freebie for every web developer.', '', {
-         timeOut: 8000,
-         closeButton: true,
-         enableHtml: true,
-         toastClass: "alert alert-info alert-with-icon",
-         positionClass: 'toast-' + from + '-' +  align
-       });
-      break;
-      case 2:
-      this.toastr.success('<span class="now-ui-icons ui-1_bell-53" style="z-index:2147483647"></span> Welcome to <b>Now Ui Dashboard</b> - a beautiful freebie for every web developer.', '', {
-         timeOut: 8000,
-         closeButton: true,
-         enableHtml: true,
-         toastClass: "alert alert-success alert-with-icon",
-         positionClass: 'toast-' + from + '-' +  align
-       });
-      break;
-      case 3:
-      this.toastr.warning('<span class="now-ui-icons ui-1_bell-53" style="z-index:2147483647"></span> Welcome to <b>Now Ui Dashboard</b> - a beautiful freebie for every web developer.', '', {
-         timeOut: 8000,
-         closeButton: true,
-         enableHtml: true,
-         toastClass: "alert alert-warning alert-with-icon",
-         positionClass: 'toast-' + from + '-' +  align
-       });
-      break;
-      case 4:
-      this.toastr.error('<span class="now-ui-icons ui-1_bell-53" style="z-index:2147483647"></span> fuck off <b>bitches</b> - Please go fucking away.', '', {
-         timeOut: 8000,
-         enableHtml: true,
-         closeButton: true,
-         toastClass: "alert alert-danger alert-with-icon",
-         positionClass: 'toast-' + from + '-' +  align
-       });
-       break;
-       case 5:
-       this.toastr.show('<span class="now-ui-icons ui-1_bell-53" style="z-index:2147483647"></span> Welcome to <b>Now Ui Dashboard</b> - a beautiful freebie for every web developer.', '', {
-          timeOut: 8000,
-          closeButton: true,
-          enableHtml: true,
-          toastClass: "alert alert-primary alert-with-icon",
-          positionClass: 'toast-' + from + '-' +  align
-        });
-      break;
-      default:
-      break;
-    }
-}
 playContainer
   ngOnInit(): void {
 

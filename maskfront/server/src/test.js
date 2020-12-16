@@ -1,4 +1,4 @@
-function nextTime(){
+function lastTime(){
     var res={
         nextYear:0
         }
@@ -7,4 +7,4 @@ function nextTime(){
     console.log(tmp)
 }
 
-nextTime()
+lastTime()
